@@ -1,0 +1,135 @@
+header {
+  background-image: url("newcastle1.jpg");
+  text-align: center;
+  font-style: oblique;
+  padding-top: 60px;
+  color: black;
+  height: 400px;
+  background-size:cover;
+  margin: 20px 12px 0 12px;
+  position: relative;
+  border-radius: 12px;
+}
+
+body{
+
+   background: -webkit-linear-gradient(bottom,rgba(221,160,221,0), rgba(139,0,139,0));
+   background-color: purple;
+}
+h1{
+  font-size: 50px;
+  margin-left: 10px;
+  font-family: 'Londrina Shadow';
+}
+h2{color:white;
+  text-align: center;
+}
+
+.dance {color:red;}
+
+.time {
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+.time1{
+  margin-left: 270px;
+  color:white;
+  background-color: blue;
+}
+
+#love{
+  background-image: url("Tiger1.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  margin-left: 80px;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+
+}
+#fun {
+  background-image: url("Tiger1.jpg");
+  background-size:cover;
+  max-width: 500px;
+  position:relative;
+  border-radius: 12px;
+  color: white;
+  height: 200px;
+  font: 50px;
+  text-align: center;
+  margin-left: 80px;
+
+}
+ .dropdown {
+   position:relative;
+ }
+@media (max-width: 600px){
+
+    h1{font-size:27px;
+      margin: 50px 20px 200px 20px;
+    }
+    header {background-position:center;
+    }
+    h2 {font-size: 23px}
+
+    }
+    h3{font-size:20px}
+    p{font-size: 15px;
+    }
+  }
+
+
+/* .one{
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  background-image: url("Tiger1.jpg");
+  max-width: 500px;
+  color: white;
+  font: 50px;
+  margin-left: 80px;
+} */
+/* .two{
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  background-image: url("http://dash.ga.co/assets/secondcourse.jpg");
+  max-width: 500px;
+  border-radius: 12px;
+  color: white;
+  font: 50px;
+}
+.three{
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
+  max-width: 500px;
+  border-radius: 12px;
+  color: white;
+  font: 50px;
+}
+.four {
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
+  max-width: 500px;
+  border-radius: 12px;
+  color: white;
+  font: 50px;
+} */
+
+
+h3{
+  color: white;
+  text-align:center;
+}
