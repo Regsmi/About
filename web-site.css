@@ -89,26 +89,42 @@ h2{color:white;
     }
   }
 
-.regina {
-  /* background-image: url("Tiger1.jpg");
-  background-size:cover;
-  max-width: 500px;
-  position:relative;
-  margin-left: 80px;
-  border-radius: 12px;
-  color: white; */
-  height: 100px;
-  /* font: 50px;
-  text-align: center; */
+#social-buttons{
+  color:white;
+  background-color: black;
+  margin-top: 800px;
+  margin-bottom: 200px;
 }
 
-/* #sumire{
-  height:200px;
-} */
-#social-buttons {
-
-  text-align: center;
+.btn-twitter{
+  background-color: black;
+  color: white;
 }
+
+.btn-facebook{
+  background-color: black;
+  color: white;
+}
+
+.btn-instagram{
+  background-color: black;
+  color: white;
+}
+
+#regina{
+  background-color: black;
+  height:auto;
+  padding-top: 50px;
+  padding-bottom: 65px;
+}
+
+#sumire{
+  background-color: :black;
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 65px;
+}
+
 
 /* .one{
   height: 200px;
